@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1571225222 source:d:\project_c++\landowner\landowner\main.cpp
+	<iostream>
+	<vector>
+	"LandOwner.h"
+
+1571222271 d:\project_c++\landowner\landowner\include\landowner.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1571225199 source:d:\project_c++\landowner\landowner\src\landowner.cpp
+	"LandOwner.h"
+
